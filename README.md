@@ -5,7 +5,7 @@ Hi everyone! I'm Zhen Yu, a final-year Software Engineering student at Universit
 - **Fun fact**: I can spend hours debugging one small error, only to discover that the solution is just one line of code.
 - **Course expectations**: I hope to understand different software maintenance techniques, learn how to handle legacy systems, and gain practical knowledge of how to improve software quality, reliability, and performance.
 
-
+![My Image](me.png)
 
 <!--
 **z0117y/z0117y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
