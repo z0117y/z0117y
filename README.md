@@ -1,4 +1,11 @@
-## Hi there 👋
+# Introduction
+
+Hi everyone! I'm Zhen Yu, a final-year Software Engineering student at Universiti Malaya, currently taking the Software Maintenance and Evolution course. I have experience in software development and programming, and I'm interested in understanding how software systems are maintained and improved after they are released. I look forward to exploring new concepts and learning more about how software evolves over time.
+
+- **Fun fact**: I can spend hours debugging one small error, only to discover that the solution is just one line of code.
+- **Course expectations**: I hope to understand different software maintenance techniques, learn how to handle legacy systems, and gain practical knowledge of how to improve software quality, reliability, and performance.
+
+
 
 <!--
 **z0117y/z0117y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
